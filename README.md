@@ -1,3 +1,4 @@
-# Initial code for Udemy course [ChatBots: Messenger ChatBot - DialogFlow and nodejs](https://www.udemy.com/chatbots/?couponCode=GITHUB)
+# Initial code for program eye chatbot try m.me/programeye
+# AI for company support with ML & DL
 
 
